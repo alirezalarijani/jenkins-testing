@@ -1,0 +1,1 @@
+c:\python27\scripts\nosetests -v --with-coverage ExperimentTest.py
